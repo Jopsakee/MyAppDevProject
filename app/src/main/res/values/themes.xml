@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyAppDevProject" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+    <style name="Theme.MyAppDevProject.Dark" parent="Theme.AppCompat">
+        <item name="android:windowBackground">@color/dark_grey</item>
+    </style>
+
+</resources>
